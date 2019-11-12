@@ -15,4 +15,5 @@ Setup:
 
 Resources:
 * [List of Keycodes and their meanings](https://beta.docs.qmk.fm/features/keycodes_basic)
+* [HID interface specs](https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf)
 * This is for a 65% or 68 key keyboard. The extact one I currently have is from AliExpress [YMDK Fully Programmable 68 CNC Aluminum Case Plate PCB Stabilizers Mechanical Keyboard DIY Kit](https://www.aliexpress.com/item/32999629504.html)
