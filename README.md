@@ -11,3 +11,6 @@ Setup:
 * Reset keyboard so it's able to be flashed
 * Click the "Flash" button or you could always check the "Auto-Flash" button in a previous step if you want
 * Profit
+
+
+This is for a 65% or 68 key keyboard. The extact one I currently have is from AliExpress [YMDK Fully Programmable 68 CNC Aluminum Case Plate PCB Stabilizers Mechanical Keyboard DIY Kit](https://www.aliexpress.com/item/32999629504.html)
